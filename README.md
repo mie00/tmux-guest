@@ -39,13 +39,13 @@ guest delete myguest   # remove user myguest
 
 Thanks guys for sharing the knowledge:
 
-[Jo](https://github.com/grimpy)
+[Jo](https://github.com/grimpy): If it wasn't for him, I wouldn't be able to pull this out.
 
-[Azmy](https://github.com/muhamadazmy)
+[Azmy](https://github.com/muhamadazmy): For teaching me lots of linux related stuff.
 
-[Thabet](https://github.com/xmonader)
+[Thabet](https://github.com/xmonader): For the nice talk we had regarding special permissions.
 
-[Abdulrahman](https://github.com/abdulrahmantkhalifa)
+[Abdulrahman](https://github.com/abdulrahmantkhalifa): For introducing me to tmux.
 
 ## License
 
